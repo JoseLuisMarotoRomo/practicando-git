@@ -4,6 +4,7 @@
 int main(){
     int i;
     printf("Practicando con GIT\n");
+    printf("Estoy en la rama TEST\n");
     for (i = 2; i <= 24; i=i+2){
         printf("%d\n", i);
     }
